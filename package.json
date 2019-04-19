@@ -1,0 +1,22 @@
+{
+  "name": "dotmd",
+  "version": "1.0.0",
+  "description": "dot graph integrated in markdown => md + svg",
+  "main": "index.js",
+  "bin":{
+	  "dotmd":"index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/he110world/dotmd.git"
+  },
+  "author": "he110world",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/he110world/dotmd/issues"
+  },
+  "homepage": "https://github.com/he110world/dotmd#readme"
+}
